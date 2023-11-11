@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "BFF"]
 	path = BFF
-	url = https://github.com/cran/BFF
+	url = https://github.com/rshudde/bff
 [submodule "RJcluster"]
 	path = RJcluster
 	url = https://github.com/cran/RJcluster
